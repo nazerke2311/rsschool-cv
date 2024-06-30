@@ -18,27 +18,24 @@ I have always been attracted to the IT world. I worked in the IT department for 
 - Photoshop, CorelDRAW, AutoCAD.
 ##Code examples
 <code><div class="mod-languages language">
-
-	<ul class="lang-inline">
-						<li dir="ltr">
-			<a href="/kk/">
-							<span>ҚАЗ</span>
-						</a>
-			</li>
-								<li class="lang-active" dir="ltr">
-			<a href="/">
-							<span>РУС</span>
-						</a>
-			</li>
-								<li dir="ltr">
-			<a href="/en/">
-							<span>ENG</span>
-						</a>
-			</li>
-				</ul>
-
+<ul class="lang-inline">
+<li dir="ltr">
+<a href="/kk/">
+<span>ҚАЗ</span>
+</a>
+</li>
+<li class="lang-active" dir="ltr">
+<a href="/">
+<span>РУС</span>
+</a>
+</li>
+<li dir="ltr">
+<a href="/en/">
+<span>ENG</span>
+</a>
+</li>
+</ul>
 </div></code>
-
 ##Languages
 - Kazakh
 - Russian
