@@ -17,7 +17,7 @@ I have always been attracted to the IT world. I worked in the IT department for 
 - worked with Joomla
 - Photoshop, CorelDRAW, AutoCAD.
 ##Code examples
-<code><div class="mod-languages language">
+<blockquote><div class="mod-languages language">
 <ul class="lang-inline">
 <li dir="ltr">
 <a href="/kk/">
@@ -35,7 +35,7 @@ I have always been attracted to the IT world. I worked in the IT department for 
 </a>
 </li>
 </ul>
-</div></code>
+</div></blockquote>
 ##Languages
 - Kazakh
 - Russian
